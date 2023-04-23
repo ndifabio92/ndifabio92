@@ -1,6 +1,6 @@
 # 💫 About Me:
 👯 I’m looking to collaborate on interesting projects<br>
-🌱 I’m currently learning NodeJS (express,nest), Docker, AWS<br>
+🌱 I’m currently learning NodeJS Express TS/JS, Unit Test (Jest), Docker, AWS<br>
 
 
 ## 🌐 Socials:
