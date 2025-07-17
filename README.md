@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Nicolás Di Fabio Bergantiños
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;.NET+%7C+React+%7C+TypeScript;5%2B+a%C3%B1os+de+experiencia;Siempre+aprendiendo+algo+nuevo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;.NET+%7C+NodeJs+%7C+NestJs+%7C+React+%7C+TypeScript;5%2B+a%C3%B1os+de+experiencia;Siempre+aprendiendo+algo+nuevo!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
