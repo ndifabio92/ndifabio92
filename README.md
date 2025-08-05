@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un **Full Stack Developer** con más de **5 años de experiencia** especializado en el desarrollo de aplicaciones web robustas y escalables. Me apasiona crear soluciones tecnológicas que generen impacto real y siempre estoy buscando nuevos desafíos que me permitan crecer profesionalmente.
+Soy un **Full Stack Developer** con más de **7 años de experiencia** especializado en el desarrollo de aplicaciones web robustas y escalables. Me apasiona crear soluciones tecnológicas que generen impacto real y siempre estoy buscando nuevos desafíos que me permitan crecer profesionalmente.
 
 - 🌱 Constantemente aprendiendo nuevas tecnologías y mejores prácticas
 - 👯 Busco colaborar en proyectos innovadores y desafiantes
